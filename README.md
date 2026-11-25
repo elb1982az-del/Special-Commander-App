@@ -1,5 +1,10 @@
 # Special Commander (Android controller)
-
+┃     1 + > [!WARNING]
+  ┃     2 + > ⚠️r AUTHORIZED LAB USE ONLY. Use only
+  ┃         on networks/devices you own or are
+  ┃     3 + > explicitly authorized to test. No
+  ┃         third-party networks or devices.
+  
 Special Commander is an Android controller for the local Special-Commander
 engine. The APK does not contain the attack engine or third-party tooling; it
 connects to the engine over `127.0.0.1:8765` and displays engine events.
