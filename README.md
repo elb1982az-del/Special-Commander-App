@@ -7,8 +7,8 @@
 
 Special Commander is an Android controller for the local Special-Commander engine.
 
- controller)
-┃     1 + > [!WARNING]
+ 
+
   ┃     2 + > ⚠️r AUTHORIZED LAB USE ONLY. Use only
   ┃         on networks/devices you own or are
   ┃     3 + > explicitly authorized to test. No
