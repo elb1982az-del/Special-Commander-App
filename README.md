@@ -1,4 +1,12 @@
-# Special Commander ([![Sponsor SkaneMaster-ALB](https://shields.io)](https://github.com)
+# Special Commander
+
+**[❤️ Sponsor this project on GitHub](https://github.com)**
+
+> [!WARNING]
+> **FOR AUTHORIZED LAB USE ONLY.** Use only on networks and devices you own or are explicitly authorized to test. No third-party networks or devices.
+
+Special Commander is an Android controller for the local Special-Commander engine.
+
  controller)
 ┃     1 + > [!WARNING]
   ┃     2 + > ⚠️r AUTHORIZED LAB USE ONLY. Use only
